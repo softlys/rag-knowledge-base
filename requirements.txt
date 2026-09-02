@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+anthropic
+chromadb
+pypdf
+python-multipart
+
+# для тестов
+pytest
+httpx
